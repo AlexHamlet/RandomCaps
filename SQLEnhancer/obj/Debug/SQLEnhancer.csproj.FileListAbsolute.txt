@@ -1,0 +1,15 @@
+C:\Users\Alex\source\repos\SQLEnhancer\SQLEnhancer\bin\Debug\SQLEnhancer.exe.config
+C:\Users\Alex\source\repos\SQLEnhancer\SQLEnhancer\bin\Debug\SQLEnhancer.exe
+C:\Users\Alex\source\repos\SQLEnhancer\SQLEnhancer\bin\Debug\SQLEnhancer.pdb
+C:\Users\Alex\source\repos\SQLEnhancer\SQLEnhancer\obj\Debug\SQLEnhancer.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\SQLEnhancer\SQLEnhancer\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\source\repos\SQLEnhancer\SQLEnhancer\obj\Debug\App.g.cs
+C:\Users\Alex\source\repos\SQLEnhancer\SQLEnhancer\obj\Debug\SQLEnhancer_MarkupCompile.cache
+C:\Users\Alex\source\repos\SQLEnhancer\SQLEnhancer\obj\Debug\SQLEnhancer_MarkupCompile.lref
+C:\Users\Alex\source\repos\SQLEnhancer\SQLEnhancer\obj\Debug\MainWindow.baml
+C:\Users\Alex\source\repos\SQLEnhancer\SQLEnhancer\obj\Debug\SQLEnhancer.g.resources
+C:\Users\Alex\source\repos\SQLEnhancer\SQLEnhancer\obj\Debug\SQLEnhancer.Properties.Resources.resources
+C:\Users\Alex\source\repos\SQLEnhancer\SQLEnhancer\obj\Debug\SQLEnhancer.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\SQLEnhancer\SQLEnhancer\obj\Debug\SQLEnhancer.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\SQLEnhancer\SQLEnhancer\obj\Debug\SQLEnhancer.exe
+C:\Users\Alex\source\repos\SQLEnhancer\SQLEnhancer\obj\Debug\SQLEnhancer.pdb
