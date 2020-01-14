@@ -26,10 +26,12 @@ namespace SQLEnhancer
         [DllImport("user32.dll")]
         static extern void keybd_event(byte bVk, byte bScan, uint dwFlags, UIntPtr dwExtraInfo);
         private bool active;
+        private Random r;
         public MainWindow()
         {
             InitializeComponent();
             active = false;
+            r = new Random();
         }
 
         private void Enhance(object sender, RoutedEventArgs e)
@@ -55,7 +57,8 @@ namespace SQLEnhancer
                 const int KEYEVENTF_KEYUP = 0x2;
                 keybd_event(0x14, 0x45, KEYEVENTF_EXTENDEDKEY, (UIntPtr)0);
                 keybd_event(0x14, 0x45, KEYEVENTF_EXTENDEDKEY | KEYEVENTF_KEYUP, (UIntPtr)0);
-                Thread.Sleep(1000);
+                int randTime = r.Next(50, 1000);
+                Thread.Sleep(randTime);
             }
         }
 
